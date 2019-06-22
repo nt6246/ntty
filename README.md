@@ -2,8 +2,6 @@
 
 ttyd is a simple command-line tool for sharing terminal over the web, inspired by [GoTTY][1].
 
-![screenshot](https://github.com/tsl0922/ttyd/raw/master/screenshot.gif)
-
 # Features
 
 - Built on top of [Libwebsockets][2] with C for speed
